@@ -1,6 +1,6 @@
 {
   "name": "on-stream-close",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Callback when a stream has closed",
   "license": "MIT",
   "author": "Vincent Weevers",
